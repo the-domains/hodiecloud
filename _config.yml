@@ -1,0 +1,28 @@
+name: HodieCloud
+favicon: null
+layout_spectrum: 0.45235374313779175
+typography_spectrum: 0.010225323028862476
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4521609111689031
+  lightness: 0.2391400346532464
+  saturation: 0.7418250853661448
+  rhythmicContrast: 0.10363532439805567
+purpose: []
